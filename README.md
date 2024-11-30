@@ -3,6 +3,8 @@ FormatRyce is an application with a simple interface. This application is an app
 
 FormatRyce is an open source program. The application only has Turkish language support, English language support will be added!
 There may be problems with the application, you may experience errors while saving.
+
+The application images are in the "Application Images" folder.
 ----------------------------------------------------------
 -Application About:
 Version : 1.5.0 [PRE-ALPHA]
